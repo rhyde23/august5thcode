@@ -1,0 +1,74 @@
+Ball Skills
+Ball Control 35
+
+Dribbling 16
+
+Defence
+Marking 27
+
+Slide Tackle 18
+
+Stand Tackle 15
+
+Mental
+Aggression 28
+
+Reactions 79
+
+Att. Position 7
+
+Interceptions 25
+
+Vision 56
+
+Composure 66
+
+Passing
+Crossing 9
+
+Short Pass 50
+
+Long Pass 48
+
+Physical
+Acceleration 55
+
+Stamina 43
+
+Strength 70
+
+Balance 44
+
+Sprint Speed 56
+
+Agility 52
+
+Jumping 73
+
+Shooting
+Heading 13
+
+Shot Power 59
+
+Finishing 9
+
+Long Shots 14
+
+Curve 9
+
+FK Acc. 8
+
+Penalties 23
+
+Volleys 10
+
+Goalkeeper
+GK Positioning 84
+
+GK Diving 85
+
+GK Handling 80
+
+GK Kicking 78
+
+GK Reflexes 86

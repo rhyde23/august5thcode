@@ -1,0 +1,462 @@
+__________________________________
+Crossing
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:10
+Wing Back:13
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:11
+Winger:10
+Centre Forward:1
+Striker:1
+__________________________________
+Finishing
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:3
+Attacking Midfielder:8
+Wide Midfielder:7
+Winger:11
+Centre Forward:12
+Striker:19
+__________________________________
+Heading Accuracy
+__________________________________
+Goalkeeper:1
+Centre Back:11
+Full Back:5
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:3
+Striker:11
+__________________________________
+Short Passing
+__________________________________
+Goalkeeper:1
+Centre Back:6
+Full Back:8
+Wing Back:11
+Defensive Midfielder:15
+Central Midfielder:18
+Attacking Midfielder:17
+Wide Midfielder:12
+Winger:10
+Centre Forward:10
+Striker:6
+__________________________________
+Volleys
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:3
+__________________________________
+Dribbling
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:5
+Defensive Midfielder:1
+Central Midfielder:8
+Attacking Midfielder:14
+Wide Midfielder:16
+Winger:17
+Centre Forward:15
+Striker:8
+__________________________________
+Curve
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Free Kick Accuracy
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Long Passing
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:11
+Central Midfielder:14
+Attacking Midfielder:5
+Wide Midfielder:6
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Ball Control
+__________________________________
+Goalkeeper:1
+Centre Back:5
+Full Back:8
+Wing Back:9
+Defensive Midfielder:11
+Central Midfielder:15
+Attacking Midfielder:16
+Wide Midfielder:14
+Winger:15
+Centre Forward:16
+Striker:11
+__________________________________
+Acceleration
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:6
+Wing Back:5
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:5
+Wide Midfielder:8
+Winger:8
+Centre Forward:6
+Striker:5
+__________________________________
+Sprint Speed
+__________________________________
+Goalkeeper:1
+Centre Back:3
+Full Back:8
+Wing Back:7
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:4
+Wide Midfielder:7
+Winger:7
+Centre Forward:6
+Striker:6
+__________________________________
+Agility
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:4
+Wide Midfielder:8
+Winger:4
+Centre Forward:1
+Striker:1
+__________________________________
+Reactions
+__________________________________
+Goalkeeper:12
+Centre Back:6
+Full Back:9
+Wing Back:9
+Defensive Midfielder:8
+Central Midfielder:9
+Attacking Midfielder:8
+Wide Midfielder:1
+Winger:8
+Centre Forward:10
+Striker:9
+__________________________________
+Balance
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Shot Power
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:6
+Striker:11
+__________________________________
+Jumping
+__________________________________
+Goalkeeper:1
+Centre Back:4
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Stamina
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:9
+Wing Back:11
+Defensive Midfielder:7
+Central Midfielder:7
+Attacking Midfielder:1
+Wide Midfielder:6
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Strength
+__________________________________
+Goalkeeper:1
+Centre Back:11
+Full Back:1
+Wing Back:1
+Defensive Midfielder:5
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:6
+__________________________________
+Long Shots
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:5
+Attacking Midfielder:6
+Wide Midfielder:1
+Winger:5
+Centre Forward:5
+Striker:4
+__________________________________
+Aggression
+__________________________________
+Goalkeeper:1
+Centre Back:8
+Full Back:1
+Wing Back:1
+Defensive Midfielder:6
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Interceptions
+__________________________________
+Goalkeeper:1
+Centre Back:14
+Full Back:13
+Wing Back:13
+Defensive Midfielder:15
+Central Midfielder:6
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Vision
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:5
+Central Midfielder:14
+Attacking Midfielder:15
+Wide Midfielder:8
+Winger:7
+Centre Forward:9
+Striker:1
+__________________________________
+Penalties
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Composure
+__________________________________
+Goalkeeper:1
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Marking
+__________________________________
+Goalkeeper:1
+Centre Back:15
+Full Back:9
+Wing Back:8
+Defensive Midfielder:10
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Standing Tackle
+__________________________________
+Goalkeeper:1
+Centre Back:18
+Full Back:12
+Wing Back:9
+Defensive Midfielder:13
+Central Midfielder:6
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+Slide Tackle
+__________________________________
+Goalkeeper:1
+Centre Back:11
+Full Back:15
+Wing Back:12
+Defensive Midfielder:6
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+GK Diving
+__________________________________
+Goalkeeper:22
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+GK Handling
+__________________________________
+Goalkeeper:22
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+GK Kicking
+__________________________________
+Goalkeeper:6
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+GK Positioning
+__________________________________
+Goalkeeper:22
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
+__________________________________
+GK Reflexes
+__________________________________
+Goalkeeper:22
+Centre Back:1
+Full Back:1
+Wing Back:1
+Defensive Midfielder:1
+Central Midfielder:1
+Attacking Midfielder:1
+Wide Midfielder:1
+Winger:1
+Centre Forward:1
+Striker:1
